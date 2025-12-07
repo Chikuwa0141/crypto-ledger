@@ -63,7 +63,3 @@
 ## 開発
 
 このプロジェクトは **Antigravity (gemini3pro high)** を使用して開発されました。
-
-## ライセンス
-
-[MIT](LICENSE)
